@@ -85,6 +85,23 @@ nav ul li a:hover{
     font-family: 'Lato', sans-serif;
     font-weight: 900;
 }
+.Signup
+{
+    display:flex;
+     position:relative;
+     top:13px;
+     left:328px;
+     color:black;
+    align-items: center;
+    width: 30vw;
+    height: 27px;
+    border-radius: 5px;
+    margin: 0 16px 0 56px;
+    padding:0 12px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+
+}
 
 /* .slider{ 
      width: 80vw; 
