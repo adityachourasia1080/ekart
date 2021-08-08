@@ -31,4 +31,7 @@
     .card-item img{ 
         width: 140px;
     }
+    nav .Signup{
+        visibility: hidden;
+    }
 }
