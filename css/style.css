@@ -155,7 +155,7 @@ img {
 .cards{
     display: flex; 
     overflow: scroll;
-    overflow-y: hidden;
+     overflow-y: hidden;
 }
 
 .card-item{
