@@ -1,5 +1,5 @@
 # ekart
-Created This as Part of learning Html and advance CSS,animations
+Created This as Part of learning Html, CSS
 
 ![Screenshot (1852)](https://user-images.githubusercontent.com/83219165/130789565-3d7411f6-0569-45e4-84de-e226a099d751.png)
 
